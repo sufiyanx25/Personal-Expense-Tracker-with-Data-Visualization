@@ -1,0 +1,117 @@
+tx_date,description,amount,account,raw_source
+2024-08-01,Monthly Salary Credit - Tech Corp,85000.00,Debit Card,BANK_STATEMENT
+2024-08-02,House Rent Payment - August,-22000.00,UPI,BANK_STATEMENT
+2024-08-02,Apartment Maintenance Fee,-2500.00,UPI,UPI_APP
+2024-08-03,Blinkit Instant Grocery Order,-845.50,UPI,UPI_APP
+2024-08-04,Swiggy Dinner Food Delivery,-540.00,UPI,UPI_APP
+2024-08-05,HPCL Petrol Pump Fuel Refill,-2200.00,Credit Card,CARD_STATEMENT
+2024-08-06,BESCOM Electricity Bill Payment,-1850.00,UPI,BANK_STATEMENT
+2024-08-07,Airtel Fiber Broadband Bill,-1179.00,Debit Card,CARD_STATEMENT
+2024-08-08,BigBasket Weekly Grocery Provisions,-3420.00,Credit Card,CARD_STATEMENT
+2024-08-09,Uber Auto Ride to Metro,-145.00,UPI,UPI_APP
+2024-08-10,DMart Monthly Essentials & Cleaning,-4650.00,Debit Card,CARD_STATEMENT
+2024-08-11,Zomato Weekend Lunch with Friends,-1180.00,Credit Card,CARD_STATEMENT
+2024-08-12,Apollo Pharmacy Healthcare & Vitamins,-890.00,UPI,UPI_APP
+2024-08-13,Netflix Premium Monthly Subscription,-649.00,Credit Card,CARD_STATEMENT
+2024-08-14,Ola Cab Commute to Tech Park,-380.00,UPI,UPI_APP
+2024-08-15,Starbucks Coffee and Bagel,-450.00,Debit Card,CARD_STATEMENT
+2024-08-16,Amazon India Independence Day Shopping,-3499.00,Credit Card,CARD_STATEMENT
+2024-08-17,Local Kirana Store Milk & Curd,-160.00,Cash,MANUAL_ENTRY
+2024-08-18,Jio Prepaid Mobile Recharge 84 Days,-719.00,UPI,UPI_APP
+2024-08-19,Shell Petrol Station Fuel Topup,-1500.00,Debit Card,CARD_STATEMENT
+2024-08-20,Swiggy Lunch Office Delivery,-320.00,UPI,UPI_APP
+2024-08-21,Amazon Pay Refund for Returned Item,899.00,Credit Card,CARD_STATEMENT
+2024-08-22,BookMyShow Weekend Movie Tickets,-850.00,Debit Card,CARD_STATEMENT
+2024-08-23,Blinkit Midnight Snacks Order,-410.00,UPI,UPI_APP
+2024-08-24,Freelance UI Consulting Honorarium,15000.00,UPI,BANK_STATEMENT
+2024-08-25,Indane LPG Cylinder Refill Booking,-925.00,UPI,BANK_STATEMENT
+2024-08-26,Zomato Dinner Order Biryani,-620.00,UPI,UPI_APP
+2024-08-27,Fastag Auto Toll Recharge,-1000.00,UPI,BANK_STATEMENT
+2024-08-28,Myntra Festive Apparel Sale,-2850.00,Credit Card,CARD_STATEMENT
+2024-08-29,Fresh Vegetable Vendor Cash Purchase,-350.00,Cash,MANUAL_ENTRY
+2024-08-30,Spotify Premium Family Monthly Plan,-179.00,Credit Card,CARD_STATEMENT
+2024-08-31,Quarterly Savings Bank Interest Credit,680.00,Debit Card,BANK_STATEMENT
+2024-09-01,Monthly Salary Credit - Tech Corp,85000.00,Debit Card,BANK_STATEMENT
+2024-09-02,House Rent Payment - September,-22000.00,UPI,BANK_STATEMENT
+2024-09-02,Apartment Maintenance Fee,-2500.00,UPI,UPI_APP
+2024-09-03,Blinkit Morning Grocery & Eggs,-560.00,UPI,UPI_APP
+2024-09-04,Swiggy Quick Meal Box,-290.00,UPI,UPI_APP
+2024-09-05,BPCL Petrol Pump Fuel Fill,-2100.00,Credit Card,CARD_STATEMENT
+2024-09-06,BESCOM Electricity Bill September,-2120.00,UPI,BANK_STATEMENT
+2024-09-07,Airtel Fiber Broadband Bill,-1179.00,Debit Card,CARD_STATEMENT
+2024-09-08,BigBasket Fresh Pantry Supplies,-2980.00,Credit Card,CARD_STATEMENT
+2024-09-09,Uber Premier Commute to Airport,-780.00,UPI,UPI_APP
+2024-09-10,DMart Monthly Grocery Stockup,-5120.00,Debit Card,CARD_STATEMENT
+2024-09-11,Barbeque Nation Team Dinner,-2450.00,Credit Card,CARD_STATEMENT
+2024-09-12,Practo Specialist Doctor Consultation,-900.00,UPI,UPI_APP
+2024-09-13,Netflix Premium Monthly Subscription,-649.00,Credit Card,CARD_STATEMENT
+2024-09-14,Ola Auto Ride from Office,-190.00,UPI,UPI_APP
+2024-09-15,Chai Point Evening Tea & Snacks,-210.00,Cash,MANUAL_ENTRY
+2024-09-16,Flipkart Gadget Accessories Purchase,-1799.00,Credit Card,CARD_STATEMENT
+2024-09-17,Local Bakery Bread & Confectionery,-230.00,Cash,MANUAL_ENTRY
+2024-09-18,Jio Fiber Backup Broadband Recharge,-499.00,UPI,UPI_APP
+2024-09-19,Shell Petrol Pump Station Fuel,-1800.00,Debit Card,CARD_STATEMENT
+2024-09-20,Zomato Weekend Biryani Feast,-850.00,UPI,UPI_APP
+2024-09-21,Swiggy Cancelled Order Auto Refund,320.00,UPI,UPI_APP
+2024-09-22,Cult Fit Gym Monthly Membership,-2200.00,Credit Card,CARD_STATEMENT
+2024-09-23,Blinkit Daily Essentials Order,-395.00,UPI,UPI_APP
+2024-09-24,Quarterly Performance Bonus - Tech Corp,25000.00,Debit Card,BANK_STATEMENT
+2024-09-25,Water Tanker Delivery Charges,-800.00,Cash,MANUAL_ENTRY
+2024-09-26,Swiggy Late Night Dessert Delivery,-380.00,UPI,UPI_APP
+2024-09-27,Fastag Toll Plaza Auto Recharge,-1000.00,UPI,BANK_STATEMENT
+2024-09-28,Decathlon Sports Shoes & Fitness Gear,-3499.00,Credit Card,CARD_STATEMENT
+2024-09-29,Organic Green Vegetables Cash Buy,-420.00,Cash,MANUAL_ENTRY
+2024-09-30,Spotify Premium Family Monthly Plan,-179.00,Credit Card,CARD_STATEMENT
+2024-10-01,Monthly Salary Credit - Tech Corp,85000.00,Debit Card,BANK_STATEMENT
+2024-10-02,House Rent Payment - October,-22000.00,UPI,BANK_STATEMENT
+2024-10-02,Apartment Maintenance Fee,-2500.00,UPI,UPI_APP
+2024-10-03,Blinkit Festival Sweets & Dry Fruits,-1250.00,UPI,UPI_APP
+2024-10-04,Zomato Family Dinner Treat,-1650.00,Credit Card,CARD_STATEMENT
+2024-10-05,HPCL Petrol Station Fuel Topup,-2350.00,Credit Card,CARD_STATEMENT
+2024-10-06,BESCOM Electricity Bill October,-1950.00,UPI,BANK_STATEMENT
+2024-10-07,Airtel Fiber Broadband Bill,-1179.00,Debit Card,CARD_STATEMENT
+2024-10-08,BigBasket Diwali Mega Grocery Order,-5400.00,Credit Card,CARD_STATEMENT
+2024-10-09,Uber Auto Ride to Railway Station,-220.00,UPI,UPI_APP
+2024-10-10,DMart Diwali Gifting & Groceries,-6850.00,Debit Card,CARD_STATEMENT
+2024-10-11,Swiggy Festive Snack Box Delivery,-490.00,UPI,UPI_APP
+2024-10-12,Apollo Pharmacy Monthly Prescriptions,-1240.00,UPI,UPI_APP
+2024-10-13,Netflix Premium Monthly Subscription,-649.00,Credit Card,CARD_STATEMENT
+2024-10-14,Ola Premier Cab City Commute,-460.00,UPI,UPI_APP
+2024-10-15,Coffee Day Meeting Beverages,-390.00,Debit Card,CARD_STATEMENT
+2024-10-16,Amazon Great Indian Festival Electronics,-8999.00,Credit Card,CARD_STATEMENT
+2024-10-17,Local Kirana Store Cooking Oil & Sugar,-580.00,Cash,MANUAL_ENTRY
+2024-10-18,Airtel Prepaid Mobile Recharge Plan,-479.00,UPI,UPI_APP
+2024-10-19,BPCL Petrol Pump Fuel Fill,-2000.00,Debit Card,CARD_STATEMENT
+2024-10-20,Zomato Sunday Brunch with Colleagues,-980.00,UPI,UPI_APP
+2024-10-21,Amazon Refund for Damaged Headphone,1499.00,Credit Card,CARD_STATEMENT
+2024-10-22,BookMyShow Diwali Movie Premiere,-1100.00,Credit Card,CARD_STATEMENT
+2024-10-23,Blinkit Instant Pooja Flowers & Ghee,-620.00,UPI,UPI_APP
+2024-10-24,Freelance Technical Writing Honorarium,12000.00,UPI,BANK_STATEMENT
+2024-10-25,Indane LPG Cylinder Refill Booking,-925.00,UPI,BANK_STATEMENT
+2024-10-26,Swiggy Gourmet Dinner Platter,-890.00,UPI,UPI_APP
+2024-10-27,Fastag Toll Plaza Auto Recharge,-1000.00,UPI,BANK_STATEMENT
+2024-10-28,Myntra Festive Ethnic Wear Shopping,-4250.00,Credit Card,CARD_STATEMENT
+2024-10-29,Cash Withdrawal for Festival Expenses,-5000.00,Debit Card,ATM_WITHDRAWAL
+2024-10-30,Spotify Premium Family Monthly Plan,-179.00,Credit Card,CARD_STATEMENT
+2024-10-31,Mutual Fund Dividend Payout,1250.00,Debit Card,BANK_STATEMENT
+2024-11-01,Monthly Salary Credit - Tech Corp,85000.00,Debit Card,BANK_STATEMENT
+2024-11-02,House Rent Payment - November,-22000.00,UPI,BANK_STATEMENT
+2024-11-02,Apartment Maintenance Fee,-2500.00,UPI,UPI_APP
+2024-11-03,Blinkit Fresh Vegetables and Dairy,-710.00,UPI,UPI_APP
+2024-11-04,Swiggy Quick Office Lunch,-340.00,UPI,UPI_APP
+2024-11-05,Shell Petrol Station Fuel Topup,-2400.00,Credit Card,CARD_STATEMENT
+2024-11-06,BESCOM Electricity Bill November,-1780.00,UPI,BANK_STATEMENT
+2024-11-07,Airtel Fiber Broadband Bill,-1179.00,Debit Card,CARD_STATEMENT
+2024-11-08,BigBasket Weekly Grocery Provisions,-3150.00,Credit Card,CARD_STATEMENT
+2024-11-09,Uber Auto Ride to Co-working Space,-160.00,UPI,UPI_APP
+2024-11-10,DMart Monthly Provisions Basket,-4890.00,Debit Card,CARD_STATEMENT
+2024-11-11,Zomato Weekend Italian Dinner,-1350.00,Credit Card,CARD_STATEMENT
+2024-11-12,Apollo Pharmacy First Aid & Cough Syrup,-450.00,UPI,UPI_APP
+2024-11-13,Netflix Premium Monthly Subscription,-649.00,Credit Card,CARD_STATEMENT
+2024-11-14,Ola Premier Cab Ride to Client Office,-520.00,UPI,UPI_APP
+2024-11-15,Blue Tokai Specialty Coffee & Croissant,-420.00,Debit Card,CARD_STATEMENT
+2024-11-16,Amazon India Home Essentials Shopping,-2190.00,Credit Card,CARD_STATEMENT
+2024-11-17,Local Milk Dairy Token Advance,-600.00,Cash,MANUAL_ENTRY
+2024-11-18,Jio Prepaid Mobile Recharge Plan,-349.00,UPI,UPI_APP
+2024-11-19,HPCL Petrol Station Fuel Refill,-1900.00,Debit Card,CARD_STATEMENT
+2024-11-20,Swiggy Comfort Food Dinner,-450.00,UPI,UPI_APP

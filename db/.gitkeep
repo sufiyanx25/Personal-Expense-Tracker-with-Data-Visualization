@@ -1,0 +1,1 @@
+# Keeps the db/ directory tracked in version control while ignoring generated .db database files.

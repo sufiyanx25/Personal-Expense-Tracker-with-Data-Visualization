@@ -1,0 +1,21 @@
+# Core Dependencies for Personal Expense Tracker with Data Visualization
+# Python Version: 3.11+
+# Note: sqlite3 is included in the Python standard library and does not require external installation.
+
+# Data Manipulation & Computation
+pandas>=2.2.0,<3.0.0
+numpy>=1.26.0,<2.0.0
+
+# Web Dashboard Interface & Table Serialization
+streamlit>=1.35.0,<2.0.0
+pyarrow<18
+
+# Data Visualization
+matplotlib>=3.8.0,<4.0.0
+plotly>=5.22.0,<6.0.0
+
+# Excel Report Generation
+openpyxl>=3.1.2,<4.0.0
+
+# Machine Learning (Optional: Future ML-based categorization)
+scikit-learn>=1.4.0,<2.0.0
